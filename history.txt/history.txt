@@ -1,0 +1,32 @@
+1  ls
+    2  mkdir week3
+    3  ls
+    4  git clone
+    5  git https://github.com/x00123423/EPA-ITM.git
+    6  git clone https://github.com/x00123423/EPA-ITM.git
+    7  ls
+    8  mkdir week2
+    9  ls
+   10  mkdir week1
+   11  mv week1 week2 week3 EPA-ITM
+   12  cd EPA-ITM
+   13  cd week3
+   14  nano hello.sh
+   15  chmod +x hello.sh 
+   16  ls
+   17  ./hello.sh
+   18  ls -l
+   19  git add hello.sh
+   20  git commit -m "first file"
+   21  git push
+   22  ./hello.sh
+   23  git add hello.sh
+   24  git commit -m "second push"
+   25  git push
+   26  pwd
+   27  cd.. 
+   28  cd ..
+   29  grep -c ^processor /prc/cpuinfo
+   30  grep -c ^processor /proc/cpuinfo
+   31  history
+
