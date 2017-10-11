@@ -1,0 +1,24 @@
+#checks if file exist
+if [ -e "ca.txt" ]; then
+
+  echo "true"
+else
+echo "false"
+fi
+
+#checks if direectory exist
+if [ -d "testdir" ]; then
+
+  echo "true"
+else
+echo "false"
+fi
+
+#checks if file, directory and permision exist
+if [ -r "ca.txt" ]; then
+
+  echo "true"
+else
+echo "false"
+fi
+
