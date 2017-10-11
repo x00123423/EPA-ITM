@@ -22,3 +22,20 @@ else
 echo "false"
 fi
 
+#count
+cnt=`grep processor /proc/cpuinfo | wc -l`
+if [ $cnt -le 2 ]; then
+
+  echo "Not enough CPUS, exiting"
+
+fi
+
+#checks if file, directory and permision exist
+cnt="10"
+if [ $cnt -le 2 ]; then
+
+  echo "Not enough CPUS, exiting"
+else
+echo "enough"
+fi
+
