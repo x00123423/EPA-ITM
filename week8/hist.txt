@@ -1,0 +1,137 @@
+ g++ -fopenmp loadtest.C -o loadtest90  ./monitor_s3.sh epa-lab-week7
+  491  ./monitor_s3.sh epa-lab-week7/NasdaqTickerSymbolList.csv
+  492  ./monitor_s3.sh 000
+  493  nano monitor_s3.sh
+  494  ./monitor_s3.sh 000
+  495  ./monitor_s3.sh epa-lab-week7
+  496  ./monitor_s3.sh
+  497  nano monitor_s3.sh
+  498  ./monitor_s3.sh
+  499  ./monitor_s3.sh epa-lab-week7
+  500  ./monitor_s3.sh 000
+  501  nano monitor_s3.sh
+  502  ./monitor_s3.sh 000
+  503  ./monitor_s3.sh epa-lab-week7
+  504  nano monitor_s3.sh
+  505  ./monitor_s3.sh epa-lab-week7
+  506  ./monitor_s3.sh 000
+  507  nano monitor_s3.sh
+  508  ./monitor_s3.sh 000
+  509  ./monitor_s3.sh epa-lab-week7
+  510  ./monitor_s3.sh epa-lab-week7/NasdaqTickerSymbolList.csv
+  511  nano monitor_s3.sh
+  512  ./monitor_s3.sh
+  513  ./monitor_s3.sh epa-lab-week7
+  514  ./monitor_s3.sh 000
+  515  nano monitor_s3.sh
+  516  ./monitor_s3.sh epa-lab-week7
+  517  nano monitor_s3.sh
+  518  ./monitor_s3.sh epa-lab-week7
+  519  ./monitor_s3.sh
+  520  ./monitor_s3.sh epa-lab-week7
+  521  nano monitor_s3.sh
+  522  ./monitor_s3.sh
+  523  ./monitor_s3.sh epa-lab-week7
+  524  nano monitor_s3.sh
+  525  ./monitor_s3.sh
+  526  nano monitor_s3.sh
+  527  ./monitor_s3.sh
+  528  nano monitor_s3.sh
+  529  ./monitor_s3.sh
+  530  nano monitor_s3.sh
+  531  ./monitor_s3.sh
+  532  ./monitor_s3.sh epa-lab-week7
+  533  nano monitor_s3.sh
+  534  wc -l NasdaqTickerSymbolList.csv
+  535  aws s3 ls
+  536  wc -l elasticbeanstalk-eu-west-1-057759806434
+  537  wc -l NasdaqTickerSymbolList.csv
+  538  wc -w NasdaqTickerSymbolList.csv
+  539  wc -c NasdaqTickerSymbolList.csv
+  540  wc -m NasdaqTickerSymbolList.csv
+  541  wc -L NasdaqTickerSymbolList.csv
+  542  nano monitor_s3.sh
+  543  ./monitor_s3.sh epa-lab-week7
+  544  ./monitor_s3.sh 
+  545  nano monitor_s3.sh
+  546  ./monitor_s3.sh 
+  547  nano monitor_s3.sh
+  548  ./monitor_s3.sh 
+  549  nano monitor_s3.sh
+  550  grep aws s3 ls s3://epa-lab-week7 | wc -l
+  551  nano monitor_s3.sh#
+  552  nano monitor_s3.sh
+  553  ./monitor_s3.sh 
+  554  nano monitor_s3.sh
+  555  ./monitor_s3.sh 
+  556  grep aws s3 ls s3://epa-lab-week7 | wc -l
+  557  grep aws s3 ls s3://epa-lab-week7/NasdaqTickerSymbolList.csv | wc -l
+  558  ./monitor_s3.sh 
+  559  nano monitor_s3.sh
+  560  ./monitor_s3.sh 
+  561  ./monitor_s3.sh 000
+  562  ./monitor_s3.sh epa-lab-week7
+  563  grep aws s3 ls s3://epa-lab-week7/NasdaqTickerSymbolList.csv | wc -l
+  564  nano monitor_s3.sh
+  565  ./monitor_s3.sh
+  566  nano monitor_s3.sh
+  567  ./monitor_s3.sh
+  568  nano monitor_s3.sh
+  569  git add monitor_s3.sh
+  570  git commit -m "new update"
+  571  git push
+  572  grep aws s3 ls s3://epa-lab-week7/NasdaqTickerSymbolList.csv | wc -l
+  573  grep aws s3 ls s3://epa-lab-week7 | wc -l
+  574  aws s3 ls
+  575  aws s3 ls table
+  576  aws s3 ls --include "*.csv"
+  577  aws ec2 describe-instances
+  578  aws ec2 describe-instances --i-033390d4b2e4fb049
+  579  aws ec2 describe-instance-status --i-033390d4b2e4fb049
+  580  nano monitor_s3.sh
+  581  ls
+  582  cd week 7
+  583  cd week7
+  584  cp monitor_s3.sh week7
+  585  mv monitor_s3.sh week7
+  586  cd ..
+  587  cp monitor_s3.sh week7
+  588  cd week7
+  589  ls
+  590  git add week7
+  591  git add monitor_s3.sh
+  592  git commit -m "final"
+  593  git push
+  594  ls
+  595  cd EPA-ITM
+  596  cd ..
+  597  cd /
+  598  su -
+  599  cd 
+  600  nano loadtest.C
+  601* 
+  602  nano loadtest.C
+  603  rm loadtest.C
+  604  nano loadtest.C
+  605  g++ -fopenmp loadtest.C -o loadtest
+  606  cd EPA-ITM
+  607  mkdir week8
+  608  g++
+  609  cd week8
+  610  nano loadtest.C
+  611  ls
+  612   g++ -fopenmp loadtest.C -o loadtest
+  613  ls -l
+  614  ,/loadtest
+  615  ./loadtest
+  616  ./loadtest 25
+  617* ./loadtest 
+  618  ./loadtest 65
+  619  nano loadWrapper.sh
+  620  ls
+  621  git add loadtest.C
+  622  git add loadWrapper.sh
+  623  git commit -m "laodtest"
+  624  git push
+  625  history
+
