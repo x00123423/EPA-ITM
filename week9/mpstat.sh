@@ -1,5 +1,7 @@
 #!/bin/bash
 
-mpstat -o JSON
+mpstat -P ALL 10 1 -o JSON | jq
 
-mpstat -u $1
+
+
+
