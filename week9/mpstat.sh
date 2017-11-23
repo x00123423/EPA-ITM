@@ -1,7 +1,6 @@
- #!/bin/bash
+#!/bin/bash
 
-mpstat -P ALL 10  -o JSON | jq
-
+mpstat $1 $2 -o JSON | jq '100 - .sysstat.hosts[0].statistics[0]."cpu-load"[0].idle'
 
 
 
